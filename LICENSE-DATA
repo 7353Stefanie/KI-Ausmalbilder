@@ -1,0 +1,52 @@
+Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This dataset is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License.
+
+You are free to:
+
+✔ Share — copy and redistribute the material in any medium or format  
+✔ Adapt — remix, transform, and build upon the material  
+
+Under the following terms:
+
+• Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+• NonCommercial — You may not use the material for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+## Origin of the Dataset
+
+This dataset was created by 7353Stefanie (GitHub alias), 2025.
+
+The dataset consists of AI-generated images and content that were created and curated by the author using the following sources and tools:
+
+### 1. Adobe Firefly
+- A portion of the image data was generated using Adobe Firefly.
+- All images were created using the author's own prompts while logged in with a valid Adobe account.
+- Use of Firefly-generated content is compliant with Adobe’s Terms of Use: https://www.adobe.com/legal/terms.html.
+- Adobe does not endorse or contribute to this project.
+
+### 2. ChatGPT (OpenAI)
+- Some text descriptions or prompt structures used during image generation were developed with the assistance of ChatGPT.
+- Outputs from ChatGPT were reviewed, edited, and incorporated by the author.
+- OpenAI grants the user full rights to use ChatGPT-generated outputs, including for training datasets.
+
+### 3. GitHub Copilot
+- Supporting scripts or tools (e.g. image downloaders, preprocessing code) may have been developed with assistance from GitHub Copilot.
+- Final implementation and validation were done by the author.
+- All code included in this dataset repository is original or modified by the author.
+
+---
+
+## Important Notice
+
+This dataset may not be used in any commercial product, service, or derivative dataset.
+
+If you use this dataset, you must:
+• Credit the author (`7353Stefanie`),
+• Link to this license file,
+• Clearly indicate if you have modified the data.
+
+For questions or special permission requests, please contact the author via GitHub: https://github.com/7353Stefanie
