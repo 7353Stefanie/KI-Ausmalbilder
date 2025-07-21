@@ -5,3 +5,6 @@ Der in diesem Projekt verwendete KI-Modellinhalt basiert auf **Stable Diffusion 
 Bitte beachte, dass diese Lizenz bestimmte Nutzungsbeschränkungen enthält. Eine kommerzielle Nutzung ist erlaubt, sofern sie nicht gegen die ethischen Richtlinien verstößt.
 
 Mehr Informationen: [https://huggingface.co/stabilityai/stable-diffusion-2](https://huggingface.co/stabilityai/stable-diffusion-2)
+
+Die enthaltenen Trainingsdaten stehen unter der [CC-BY-NC 4.0 Lizenz](./LICENSE-DATA), bereitgestellt von [@7353Stefanie](https://github.com/7353Stefanie).
+
