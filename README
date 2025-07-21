@@ -1,0 +1,7 @@
+## Lizenz
+
+Der in diesem Projekt verwendete KI-Modellinhalt basiert auf **Stable Diffusion 2.1** von Stability AI und steht unter der [CreativeML Open RAIL++-M License](./LICENSE-MODEL).
+
+Bitte beachte, dass diese Lizenz bestimmte Nutzungsbeschränkungen enthält. Eine kommerzielle Nutzung ist erlaubt, sofern sie nicht gegen die ethischen Richtlinien verstößt.
+
+Mehr Informationen: [https://huggingface.co/stabilityai/stable-diffusion-2](https://huggingface.co/stabilityai/stable-diffusion-2)
