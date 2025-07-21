@@ -1,10 +1,22 @@
 ## Lizenz
 
-Der in diesem Projekt verwendete KI-Modellinhalt basiert auf **Stable Diffusion 2.1** von Stability AI und steht unter der [CreativeML Open RAIL++-M License](./LICENSE-MODEL).
+Der in diesem Projekt verwendete KI-Modellinhalt basiert auf **Stable Diffusion 2.1** von Stability AI  
+und steht unter der [CreativeML Open RAIL++-M License](./LICENSE-MODEL).
 
-Bitte beachte, dass diese Lizenz bestimmte Nutzungsbeschränkungen enthält. Eine kommerzielle Nutzung ist erlaubt, sofern sie nicht gegen die ethischen Richtlinien verstößt.
+Bitte beachte, dass diese Lizenz bestimmte Nutzungsbeschränkungen enthält.  
+Eine kommerzielle Nutzung ist erlaubt, **sofern sie nicht gegen die ethischen Richtlinien verstößt**.
 
 Mehr Informationen: [https://huggingface.co/stabilityai/stable-diffusion-2](https://huggingface.co/stabilityai/stable-diffusion-2)
 
-Die enthaltenen Trainingsdaten stehen unter der [CC-BY-NC 4.0 Lizenz](./LICENSE-DATA), bereitgestellt von [@7353Stefanie](https://github.com/7353Stefanie).
+---
+
+Die enthaltenen **Trainingsdaten** stehen unter der Lizenz  
+**[CC-BY-NC 4.0](./LICENSE-DATA)** – bereitgestellt von [@7353Stefanie](https://github.com/7353Stefanie).
+
+Das bedeutet:
+- Die Daten dürfen geteilt und bearbeitet werden,
+- aber **nicht kommerziell verwendet werden**,
+- und die Urheberin muss korrekt genannt werden.
+
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
