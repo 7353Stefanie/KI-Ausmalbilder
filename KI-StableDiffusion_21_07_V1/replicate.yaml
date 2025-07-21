@@ -1,0 +1,5 @@
+name: 7353stefanie/KI-StableDiffusion_21_07_V1
+description: Mein eigenes SD-Modell für Ausmalbilder
+runtime: docker
+file: Dockerfile
+predict: run.py:Predictor
